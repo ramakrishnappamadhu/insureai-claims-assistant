@@ -16,7 +16,7 @@ An AI pipeline that processes insurance claims automatically using RAG, Summariz
 - Information Extraction - Pulls key fields automatically
 
 ## Results
-- Reduced claim processing time by 93% — from 7 hours to under 30 minutes
+- Reduced claim processing time by 93% from 7 hours to under 30 minutes
 - Built on Red Hat OpenShift AI with Granite 3.1 8B
 - LangChain + FAISS + HuggingFace Embeddings
 
